@@ -1,5 +1,4 @@
-# .github
-README
+# README
 
 Welcome to our collective.
 
